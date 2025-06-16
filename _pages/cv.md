@@ -44,11 +44,13 @@ redirect_from:
 ---
 
 ## Skills
-- **Machine Learning and AI**: & NLP, Generative AI, RAG systems, Transformers, LLMs 
+- **Machine Learning and AI**:  NLP, Generative AI, RAG systems, Transformers, LLMs 
 - **Programming Languages**:  Python, C/C++, Java, Matlab, AngularJS, XML, Restful APIs, HTML 
 - **Machine Learning Tools**: Pytorch, Tensorflow, Sklearn, SpaCy, Pandas, Numpy 
 - **Databases**: Oracle 10/11g, MySQL, SQL Server 
 - **Protocols**: OSI, SS7, TCP/IP, Diameter, TCAP, SNMP, MAP and LTE 
+
+
 ---
 
 ## Publications
@@ -58,7 +60,7 @@ redirect_from:
   - A new challenge benchmark for evaluating SEarch-Augmented Language models on fact seeking questions where web search yields conflicting, noisy, or unhelpful results.  
 - **Evaluating robustness of resource allocation in uniprocessor real time system** *(IJCA, 2012)*:  
   - Proposed the robust resource allocation algorithm allocates resources that minimize the makespan and maximize the robustness in real time distributed environment.  
-- **obust resource allocation algorithms in real time distributed system- robust resource allocation techniques** *(LAP LAMBERT Academic Publishing 2012)*
+- **Robust resource allocation algorithms in real time distributed system- robust resource allocation techniques** *(LAP LAMBERT Academic Publishing 2012)*
 
 ---
 
