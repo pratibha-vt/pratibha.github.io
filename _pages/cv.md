@@ -9,56 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- <p>You can download my full CV <a href="/files/Resume-Kavana-Venkatesh.pdf" target="_blank" style="color:blue; text-decoration:underline;">here</a>.</p> -->
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+- **Ph.D. in Computer Engineering**, Virginia Tech, Blacksburg, VA, GPA: 3.85 *(Expected: 2028)*  
+  *Research Focus*: Understanding interpretability and reasoning in LLMs
+- **M.Tech. in Computer Science**, National Institute of Technology, Rourkela IN, GPA: 8.94 *(2010- 2012)*  
+- **B.E. in Information Technology**, Walchand College of Engineering Sangli, India, GPA: 3.85 *(2004 - 2008)*  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Professional Experience
+- **Software Engineer**, Proquest *(June 2019- Jan 2022)*  
+- **Senior Project Engineer**, Capital One *(June 2017- Feb 2018)*  
+- **Senior Software Engineer**, JetSynthesys *(June 2015- Jan 2016)*  
+- **Software Engineer**, Mobileum *(May 2014- June 2015)*  
+- **Subject Matter Expert**, Amdocs *(June 2012- May 2014)*  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Research Experience
+- **Graduate Research Assistant**, Virginia Tech, Blacksburg, VA *(Aug 2024 - Present)*  
+  - Developing novel frameworks for complex sentence simplification for video gaming applications, by leveraging advancements in Large Language Models and multi-agent frameworks.  
+  - Researching methodologies to simplify complex sentences by augmenting the instructional following capabilities of LLMs and innovative prompt engineering strategies. 
+ 
+
+- **Research Assistant**, National Institute of Technology Rourkela, India *(Aug 2010 – Apr 2012)* (Advisor: Dr. B. D. Sahoo)  
+  - Proposed the robust resource allocation algorithm allocates resources that minimize the makespan and maximize the robustness in real time distributed environment.
+
+- **Software Engineer**, Mobileum, India *(Oct 2013 – June 2014)* 
+  - Explored and researched vairous algorithms for Diameter Routing Agents implementation for upgrading 3G to 4G network applications
+
+---
+
+## Skills
+- **Machine Learning and AI**: & NLP, Generative AI, RAG systems, Transformers, LLMs 
+- **Programming Languages**:  Python, C/C++, Java, Matlab, AngularJS, XML, Restful APIs, HTML 
+- **Machine Learning Tools**: Pytorch, Tensorflow, Sklearn, SpaCy, Pandas, Numpy 
+- **Databases**: Oracle 10/11g, MySQL, SQL Server 
+- **Protocols**: OSI, SS7, TCP/IP, Diameter, TCAP, SNMP, MAP and LTE 
+---
+
+## Publications
+- **A hybrid multi-agent prompting approach for sentence simplification***(IEEE SWC, 2025)*:
+  - Developing novel frameworks for complex sentence simplification for video gaming applications, by leveraging advancements in Large Language Models and multi-agent frameworks. 
+- **SealQA: Raising the Bar for Reasoning in Search-Augmented Language Models***(TACL, 2025)*:  
+  - A new challenge benchmark for evaluating SEarch-Augmented Language models on fact seeking questions where web search yields conflicting, noisy, or unhelpful results.  
+- **Evaluating robustness of resource allocation in uniprocessor real time system** *(IJCA, 2012)*:  
+  - Proposed the robust resource allocation algorithm allocates resources that minimize the makespan and maximize the robustness in real time distributed environment.  
+- **obust resource allocation algorithms in real time distributed system- robust resource allocation techniques** *(LAP LAMBERT Academic Publishing 2012)*
+
+---
+
+
+
+## Teaching
+- **Graduate Teaching Assistant**, Virginia Tech *(2024 - Present)*:  
+  - Data Structures and Algorithms *(ECE3514)*
+  - Software System Design *(ECE3574)*
+- **Graduate Teaching Assistant**, NIT Rourkela *(2010 - 2012)*:  
+  - C Programming
+- **Lecturer**, Walchand College of Engineering Sangli *(2009 - 2010)*:  
+  - Operating Systems
+  - Database Systems  
+- **Lecturer**, VIT Pune *(2008 - 2008)*:  
+  - C Programming
+---
+
