@@ -7,21 +7,8 @@ redirect_from:
   - /about.html
 ---
 
- Hi! Welcome to my website! I am a PhD student at <a href="https://www.vt.edu/" target="_blank" style="color: #007bff; text-decoration: none;">Virginia Tech</a>. Previously, I earned my master's degree in Computer Science from <a href="https://www.nitrkl.ac.in" target="_blank" style="color: #007bff; text-decoration: none;">National Institute of Techology Rourkela</a>. My research focuses on Large Language Models and understanding the resoning in NLP. 
-A few fun things about me:
-- 🌍 I love traveling with my family.
--  Obsessed with the nature.
-
-Check out my work, and if you ever want to chat about NLP or anything else, feel free to say hi!
----
-
-
-
-## <span style="color: #6a0dad; font-size: 1.5em; display: flex; align-items: center;"><span style="margin-right: 10px;">🔬</span> Research</span>
-
-My research focuses on Large Language Models and understanding the reasoning in NLP. Currently, I am working with <a href="https://ece.vt.edu/people/profile/hsiao.html" target="_blank" style="color: #007bff; text-decoration: none;">Dr. Michael Hsiao</a>. on simplifying complex sentences for video game applications using large language models (LLMs) and retrieval-augmented generation (RAG). In parallel, I am analyzing  the limitations of LLMs in following structured reasoning steps provided in RAG-based workflows, aiming to understand and address the underlying causes of their failures on similar tasks.
-
-My research is centered around several key areas:
+ Hi! I am a PhD student at <a href="https://www.vt.edu/" target="_blank" style="color: #007bff; text-decoration: none;">Virginia Tech</a>. My research focuses on Large Language Models and understanding the reasoning in NLP. Currently, I am working with <a href="https://ece.vt.edu/people/profile/hsiao.html" target="_blank" style="color: #007bff; text-decoration: none;">Dr. Michael Hsiao</a>. on simplifying complex sentences for video game applications using large language models (LLMs) and retrieval-augmented generation (RAG). In parallel, I am analyzing  the limitations of LLMs in following structured reasoning steps provided in RAG-based workflows, aiming to understand and address the underlying causes of their failures on similar tasks.
+ My research is centered around several key areas:
 
 - **Interpretability of Large Language Models:** Gaining insights into the internal mechanisms and reasoning processes of LLMs.
 
@@ -31,9 +18,13 @@ My research is centered around several key areas:
 
 - **Knowledge Representation in LLMs:** Developing novel strategies to mitigate hallucinations by improving how LLMs represent and integrate knowledge.
 
+ Previously, I completed my Master’s degree in Computer Science at the <a href="https://www.nitrkl.ac.in\" target="_blank" style="color: #007bff; text-decoration: none;">National Institute of Technology Rourkela</a>. I also bring over seven years of software engineering experience across a range of domains.
 
 
+If you're interested in my research, would like to discuss related topics, or explore potential collaborations, I’d be happy to connect. The best way to reach me is via email at <a href="https://www.nitrkl.ac.in" target="_blank" style="color: #007bff; text-decoration: none;"> pratibhaz@vt.edu
 ---
+
+
 
 ## <span style="color: #6a0dad; font-size: 1.5em; display: flex; align-items: center;"><span style="margin-right: 10px;">📰</span> News</span>
 
