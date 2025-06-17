@@ -21,7 +21,10 @@ redirect_from:
  Previously, I completed my Master’s degree in Computer Science at the <a href="https://www.nitrkl.ac.in\" target="_blank" style="color: #007bff; text-decoration: none;">National Institute of Technology Rourkela</a>. I also bring over seven years of software engineering experience across a range of domains.
 
 
+
 If you're interested in my research, would like to discuss related topics, or explore potential collaborations, I’d be happy to connect. The best way to reach me is via email at <a href="https://www.nitrkl.ac.in" target="_blank" style="color: #007bff; text-decoration: none;"> pratibhaz@vt.edu
+
+
 ---
 
 
