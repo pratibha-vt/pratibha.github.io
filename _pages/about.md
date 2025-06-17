@@ -7,27 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi! Welcome to my website! I am a PhD student at <a href="https://www.vt.edu/" target="_blank" style="color: #007bff; text-decoration: none;">Virginia Tech</a>. Previously, I earned my master's degree in Computer Science from <a href="https://www.nitrkl.ac.in" target="_blank" style="color: #007bff; text-decoration: none;">National Institute of Techology Rourkela</a>. My research focuses on Large Language Models and understanding the resoning in NLP. 
+ Hi! Welcome to my website! I am a PhD student at <a href="https://www.vt.edu/" target="_blank" style="color: #007bff; text-decoration: none;">Virginia Tech</a>. Previously, I earned my master's degree in Computer Science from <a href="https://www.nitrkl.ac.in" target="_blank" style="color: #007bff; text-decoration: none;">National Institute of Techology Rourkela</a>. My research focuses on Large Language Models and understanding the resoning in NLP. 
 A few fun things about me:
 - 🌍 I love traveling with my family.
 -  Obsessed with the nature.
 
-Check out my work, and if you ever want to chat about NLP or anything else, feel free to say hi! 😊
-
+Check out my work, and if you ever want to chat about NLP or anything else, feel free to say hi!
 ---
 
 
 
 ## <span style="color: #6a0dad; font-size: 1.5em; display: flex; align-items: center;"><span style="margin-right: 10px;">🔬</span> Research</span>
 
-My research focuses on Large Language Models and understanding the reasoning in NLP. My advisor is <a href="https://ece.vt.edu/people/profile/hsiao.html" target="_blank" style="color: #007bff; text-decoration: none;">Dr. Michael Hsiao</a>. 
+My research focuses on Large Language Models and understanding the reasoning in NLP. Currently, I am working with <a href="https://ece.vt.edu/people/profile/hsiao.html" target="_blank" style="color: #007bff; text-decoration: none;">Dr. Michael Hsiao</a>. on simplifying complex sentences for video game applications using large language models (LLMs) and retrieval-augmented generation (RAG). In parallel, I am analyzing  the limitations of LLMs in following structured reasoning steps provided in RAG-based workflows, aiming to understand and address the underlying causes of their failures on similar tasks.
 
-I aim to develop interpretable and efficient generative models to enable safe consumption of AI at scale across diverse domains. Specific areas of focus include:
+My research is centered around several key areas:
 
-- **Interpretability of Large Language Models:** Understanding internal models and thought processes behind the reasoning of LLMs
-- **Agentic Framework and Tool Usage:** Researching efficient agentic workflows for collaborative reasoning and smart tool usage in LLMs
-- **Evaluation and Benchmarking for LLMs:** Developing innovative and challenging approaches to evaluate LLMs for complex scenarios
-- **Knowledge representation in LLMs:** Exploring novel techniques to address hallucinations in LLMs LLMs
+- **Interpretability of Large Language Models:** Gaining insights into the internal mechanisms and reasoning processes of LLMs.
+
+- **Agentic Frameworks and Tool Use:** Designing efficient agent-based workflows that enable collaborative reasoning and intelligent tool utilization in LLMs.
+
+- **Evaluation and Benchmarking:** Creating innovative and rigorous evaluation methods to assess LLM performance in complex and challenging scenarios.
+
+- **Knowledge Representation in LLMs:** Developing novel strategies to mitigate hallucinations by improving how LLMs represent and integrate knowledge.
+
 
 
 ---
