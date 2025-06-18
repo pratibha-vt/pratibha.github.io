@@ -20,7 +20,7 @@ redirect_from:
 ---
 
 ## Professional Experience
-- **Software Engineer**, Proquest *(June 2019- Jan 2022)*  
+- **Software Engineer**, Clarivate *(June 2019- Jan 2022)*  
 - **Senior Project Engineer**, Capital One *(June 2017- Feb 2018)*  
 - **Senior Software Engineer**, JetSynthesys *(June 2015- Jan 2016)*  
 - **Software Engineer**, Mobileum *(May 2014- June 2015)*  
@@ -78,6 +78,6 @@ redirect_from:
 - **Lecturer**, VIT Pune *(2008 - 2008)*:  
   - C Programming
 
-  
+
 ---
 
