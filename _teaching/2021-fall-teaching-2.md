@@ -1,6 +1,6 @@
 ---
 title: "ECE 3574: Applied Software Design"
-collection: teaching
+collection: teacing
 type: "Undergraduate Course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Virginia Tech"
